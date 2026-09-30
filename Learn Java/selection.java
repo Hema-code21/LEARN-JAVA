@@ -21,6 +21,7 @@ public class selection {
         a[m]=temp;
     }
     for(int i:a){
+        
       System.out.println(i+" ");
     }
     }
